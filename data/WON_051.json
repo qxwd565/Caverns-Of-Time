@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "내 손에 있는 무작위 하수인 넷에게 +4/+4, +3/+3, +2/+2, +1/+1을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-09-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

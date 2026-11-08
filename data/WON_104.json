@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> <b>도발</b> 능력이 있는 1/3 공허방랑자를 소환합니다. 상대편의 하수인이 더 많으면, 반복합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-09-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

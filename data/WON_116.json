@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> <b>도발</b>\n하수인을 <b>발견</b>합니다.\n그 하수인의 비용만큼\n방어도를 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-09-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

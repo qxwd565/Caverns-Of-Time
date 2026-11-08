@@ -91,7 +91,9 @@
         102534,
         102535,
         102536
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_013t",
@@ -153,7 +155,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_013t2",
@@ -215,7 +219,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_013t3",
@@ -277,7 +283,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_013t4",
@@ -339,7 +347,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_014",
@@ -413,7 +423,9 @@
       "relatedDbfIds": [
         102994,
         102996
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_014s",
@@ -464,7 +476,9 @@
           "name": "주문 속성",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_014s2",
@@ -515,7 +529,9 @@
           "name": "주문 속성",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_015",
@@ -574,7 +590,9 @@
       ],
       "mechanics": [
         "CHOOSE_ONE"
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_026",
@@ -638,7 +656,9 @@
       ],
       "mechanics": [
         "POISONOUS"
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_027",
@@ -721,7 +741,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_028",
@@ -767,7 +789,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_039",
@@ -831,7 +855,9 @@
       ],
       "mechanics": [
         "SPELLPOWER"
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_040",
@@ -885,7 +911,9 @@
       ],
       "mechanics": [
         "SECRET"
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_041",
@@ -960,7 +988,9 @@
         103178,
         103180,
         103181
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_051",
@@ -1012,7 +1042,9 @@
           "name": "주문 속성",
           "value": 5
         }
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_052",
@@ -1091,7 +1123,9 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_053",
@@ -1189,7 +1223,9 @@
         102585,
         102586,
         102587
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_053t",
@@ -1234,7 +1270,9 @@
           "name": "카드 유형",
           "value": 39
         }
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_053t2",
@@ -1287,7 +1325,9 @@
       ],
       "mechanics": [
         "CHARGE"
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_053t3",
@@ -1340,7 +1380,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_053t4",
@@ -1393,7 +1435,9 @@
       ],
       "mechanics": [
         "SECRET"
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_053t5",
@@ -1438,7 +1482,9 @@
           "name": "카드 유형",
           "value": 39
         }
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_053t6",
@@ -1483,7 +1529,9 @@
           "name": "카드 유형",
           "value": 39
         }
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_053t7",
@@ -1536,7 +1584,9 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_064",
@@ -1619,7 +1669,9 @@
       ],
       "relatedDbfIds": [
         102599
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_064ts",
@@ -1683,7 +1735,9 @@
       ],
       "mechanics": [
         "TRADEABLE"
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_065",
@@ -1762,7 +1816,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_066",
@@ -1856,7 +1912,9 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_077",
@@ -1920,7 +1978,9 @@
       ],
       "mechanics": [
         "STEALTH"
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_078",
@@ -1974,7 +2034,9 @@
       ],
       "relatedDbfIds": [
         42098
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_079",
@@ -2068,7 +2130,9 @@
       "relatedDbfIds": [
         102620,
         102621
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_079t",
@@ -2121,7 +2185,9 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_079t2",
@@ -2175,7 +2241,9 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_090",
@@ -2254,7 +2322,9 @@
       "mechanics": [
         "OVERLOAD",
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_091",
@@ -2315,7 +2385,9 @@
         764,
         62320,
         458
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_092h",
@@ -2426,7 +2498,9 @@
       ],
       "relatedDbfIds": [
         102635
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_092p",
@@ -2475,7 +2549,9 @@
       "mechanics": [
         "WINDFURY",
         "DIVINE_SHIELD"
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_103",
@@ -2526,7 +2602,9 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_104",
@@ -2604,7 +2682,9 @@
       ],
       "relatedDbfIds": [
         48
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_115",
@@ -2666,7 +2746,9 @@
         2152,
         2235,
         48752
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_116",
@@ -2747,7 +2829,9 @@
         "TAUNT",
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_138",
@@ -2820,7 +2904,9 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_139",
@@ -2893,7 +2979,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_140",
@@ -2966,7 +3054,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_141",
@@ -3030,7 +3120,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_142",
@@ -3094,7 +3186,9 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_143",
@@ -3184,7 +3278,9 @@
           "name": "명예로운 일격",
           "value": 1
         }
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_144",
@@ -3262,7 +3358,9 @@
       ],
       "relatedDbfIds": [
         38857
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_146",
@@ -3345,7 +3443,9 @@
       ],
       "mechanics": [
         "DORMANT"
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     },
     {
       "id": "WON_345",
@@ -3420,7 +3520,9 @@
       "mechanics": [
         "TAUNT",
         "DEATHRATTLE"
-      ]
+      ],
+      "releasedAt": "2023-09-01",
+      "releaseStatus": "verified"
     }
   ]
 }

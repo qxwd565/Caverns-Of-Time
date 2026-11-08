@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "<b>예비 부품</b>을 둘 얻습니다. 1/1 폭탄로봇을 둘 소환합니다. 상대편의 덱에 폭탄을 섞어 넣습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-09-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

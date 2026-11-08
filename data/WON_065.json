@@ -82,7 +82,9 @@
       }
     ],
     "nativeRawText": "내가 하수인을 소환한 후에, 그 하수인에게 생명력을 +1 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-09-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "이번 턴에 내 다음 <b>선택</b> 카드의 두 능력이 모두 발동합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-09-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "[x]상대편의 손에 있는 카드 3장을\n봅니다. 그중 한 장을 상대편의\n덱에 섞어 넣습니다.\n{0} <b>비취 골렘</b>을 소환합니다.@[x]상대편의 손에 있는 카드 3장을\n봅니다. 그중 한 장을 상대편의\n덱에 섞어 넣습니다.\n<b>비취 골렘</b>을 소환합니다.",
-    "nativeTextBuilder": 1
+    "nativeTextBuilder": 1,
+    "releasedAt": "2023-09-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

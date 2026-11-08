@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "<b>선택 -</b> 빈 마나 수정을 얻습니다. 또는 카드를 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-09-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

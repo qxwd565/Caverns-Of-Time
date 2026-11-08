@@ -96,7 +96,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 내 덱에 똑같은 카드가 없으면, 용족을 <b>발견</b>합니다. 그 카드의 비용만큼 다른 <b>모든</b> 하수인에게 피해를 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-09-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

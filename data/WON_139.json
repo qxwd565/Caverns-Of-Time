@@ -76,7 +76,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> 기계를\n뽑습니다. 그 기계의\n비용이 (2) 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-09-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

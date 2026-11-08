@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "내 영웅에게 <b>천상의 보호막</b>을 부여합니다. 이번 턴에 내 영웅에게 공격력 +$a2|1(과,와) <b>질풍</b>을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-09-01",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

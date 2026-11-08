@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "내 덱에 있는 비용이 (3) 이하인 야수\n둘을 복사하여 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-09-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

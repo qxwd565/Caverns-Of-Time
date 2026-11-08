@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 미래의 장소를 <b>발견</b>합니다!",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-09-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

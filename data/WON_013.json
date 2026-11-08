@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성과\n죽음의 메아리:</b> <b>도발</b> 능력이\n있는 1/1 거북이 둘을\n내 손으로 가져옵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-09-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

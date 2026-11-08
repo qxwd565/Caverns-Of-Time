@@ -96,7 +96,9 @@
       }
     ],
     "nativeRawText": "<b>격려, 광폭, 주문폭주, 명예로운 일격, 압살:</b> 비용이 1인 무작위 하수인을 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-09-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

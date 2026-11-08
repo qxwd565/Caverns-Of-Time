@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, <b>생명력 흡수</b>\n내 크툰이 공격력 또는 생명력을 얻을 때마다 이 하수인도 얻습니다. <i>(어디에 있든)</i>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-09-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

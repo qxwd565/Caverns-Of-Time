@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 종족이 서로 다른 무작위 아군 하수인 셋에게 +2/+2를 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-09-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

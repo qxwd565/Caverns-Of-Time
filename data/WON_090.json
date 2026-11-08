@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> <b>과부하</b> 카드를 뽑습니다. 이번 턴에는 <b>과부하</b> 상태가 되지 않습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-09-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

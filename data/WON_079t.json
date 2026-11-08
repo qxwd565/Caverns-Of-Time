@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "이 하수인이 피해를 받을 때마다 상대편의 전장을 1/1 딱정벌레로 가득 채웁니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-09-01",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

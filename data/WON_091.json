@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "[x]기본 토템 <i>다섯</i>을\n모두 소환합니다.\n<b>과부하:</b> (1)",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-09-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

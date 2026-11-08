@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "무작위 용족을 둘\n얻고 +2/+2를 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-09-01",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

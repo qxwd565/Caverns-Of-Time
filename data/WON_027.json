@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "<b>잔상</b>, <b>전투의 함성:</b>\n내 잃어버린 시간의 랩터들을 <b>적응</b>시킵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-09-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

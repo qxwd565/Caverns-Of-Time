@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "<b>교환성</b>\n공격력이 4인 하수인을 처치합니다.\n<b>타락:</b> 공격력이 4인 <b>모든</b> 하수인을 처치합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-09-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

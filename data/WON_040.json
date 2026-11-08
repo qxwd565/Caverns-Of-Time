@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "무작위 과거의 <b>비밀</b>을 다섯 시전합니다. 내 턴이 시작될 때,\n그 비밀들을 파괴합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-09-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

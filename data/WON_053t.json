@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "하수인을 선택합니다.\n그 하수인보다 공격력이\n낮은 <b>모든</b> 하수인을\n처치합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-09-01",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

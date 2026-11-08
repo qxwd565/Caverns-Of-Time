@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "카드를 2장 뽑습니다. 두 카드의 비용을 바꿉니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-09-01",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

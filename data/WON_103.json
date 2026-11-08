@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "내 손에 있는 카드 3장 중에 한 장을 선택해 버립니다. 카드를 2장 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-09-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

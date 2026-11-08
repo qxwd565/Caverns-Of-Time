@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "무작위 성기사 <b>비밀</b>을 셋 시전합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-09-01",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

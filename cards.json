@@ -22,7 +22,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "WONDERS",
       "nativeTags": [
         {
@@ -91,9 +91,7 @@
         102534,
         102535,
         102536
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "WON_013t",
@@ -101,7 +99,7 @@
       "name": "수도사 거북",
       "type": "MINION",
       "cardClass": "DRUID",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 1,
       "text": "<b>도발</b>",
@@ -114,7 +112,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "WONDERS",
       "nativeTags": [
         {
@@ -155,10 +153,7 @@
       ],
       "mechanics": [
         "TAUNT"
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "WON_013t2",
@@ -166,7 +161,7 @@
       "name": "수도사 거북",
       "type": "MINION",
       "cardClass": "DRUID",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 1,
       "text": "<b>도발</b>",
@@ -179,7 +174,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "WONDERS",
       "nativeTags": [
         {
@@ -220,10 +215,7 @@
       ],
       "mechanics": [
         "TAUNT"
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "WON_013t3",
@@ -231,7 +223,7 @@
       "name": "수도사 거북",
       "type": "MINION",
       "cardClass": "DRUID",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 1,
       "text": "<b>도발</b>",
@@ -244,7 +236,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "WONDERS",
       "nativeTags": [
         {
@@ -285,10 +277,7 @@
       ],
       "mechanics": [
         "TAUNT"
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "WON_013t4",
@@ -296,7 +285,7 @@
       "name": "수도사 거북",
       "type": "MINION",
       "cardClass": "DRUID",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 1,
       "text": "<b>도발</b>",
@@ -309,7 +298,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "WONDERS",
       "nativeTags": [
         {
@@ -350,10 +339,7 @@
       ],
       "mechanics": [
         "TAUNT"
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "WON_014",
@@ -427,10 +413,7 @@
       "relatedDbfIds": [
         102994,
         102996
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "WON_014s",
@@ -438,7 +421,7 @@
       "name": "활기",
       "type": "SPELL",
       "cardClass": "DRUID",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 2,
       "text": "빈 마나 수정을 얻습니다.",
@@ -481,11 +464,7 @@
           "name": "주문 속성",
           "value": 4
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "WON_014s2",
@@ -493,7 +472,7 @@
       "name": "생기",
       "type": "SPELL",
       "cardClass": "DRUID",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 2,
       "text": "카드를 뽑습니다.",
@@ -536,11 +515,7 @@
           "name": "주문 속성",
           "value": 4
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "WON_015",
@@ -599,11 +574,7 @@
       ],
       "mechanics": [
         "CHOOSE_ONE"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "WON_026",
@@ -667,11 +638,7 @@
       ],
       "mechanics": [
         "POISONOUS"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "WON_027",
@@ -693,7 +660,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "WONDERS",
       "nativeTags": [
         {
@@ -754,9 +721,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "WON_028",
@@ -802,11 +767,7 @@
           "name": "수집 가능",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "WON_039",
@@ -870,11 +831,7 @@
       ],
       "mechanics": [
         "SPELLPOWER"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "WON_040",
@@ -928,11 +885,7 @@
       ],
       "mechanics": [
         "SECRET"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "WON_041",
@@ -1007,11 +960,7 @@
         103178,
         103180,
         103181
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "WON_051",
@@ -1063,10 +1012,7 @@
           "name": "주문 속성",
           "value": 5
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "WON_052",
@@ -1088,7 +1034,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "용족",
+      "race": "DRAGON",
       "set": "WONDERS",
       "nativeTags": [
         {
@@ -1145,9 +1091,7 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "WON_053",
@@ -1169,7 +1113,7 @@
       "races": [
         "DRAENEI"
       ],
-      "race": "드레나이",
+      "race": "DRAENEI",
       "set": "WONDERS",
       "nativeTags": [
         {
@@ -1245,9 +1189,7 @@
         102585,
         102586,
         102587
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "WON_053t",
@@ -1255,7 +1197,7 @@
       "name": "로데론 변두리",
       "type": "LOCATION",
       "cardClass": "PALADIN",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 3,
       "text": "하수인을 선택합니다.\n그 하수인보다 공격력이\n낮은 <b>모든</b> 하수인을\n처치합니다.",
@@ -1292,12 +1234,7 @@
           "name": "카드 유형",
           "value": 39
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "WON_053t2",
@@ -1305,7 +1242,7 @@
       "name": "와이번 횃대",
       "type": "LOCATION",
       "cardClass": "PALADIN",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 3,
       "text": "비용이 3인 무작위\n하수인을 소환합니다.\n그 하수인에게 <b>돌진</b>을 부여합니다.",
@@ -1350,12 +1287,7 @@
       ],
       "mechanics": [
         "CHARGE"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "WON_053t3",
@@ -1363,7 +1295,7 @@
       "name": "제네다르",
       "type": "LOCATION",
       "cardClass": "PALADIN",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 3,
       "text": "이번 턴의 내 다음 <b>전투의 함성</b> 능력이 2번 발동합니다.",
@@ -1408,12 +1340,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "WON_053t4",
@@ -1421,7 +1348,7 @@
       "name": "밤의 요새",
       "type": "LOCATION",
       "cardClass": "PALADIN",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 3,
       "text": "무작위 성기사 <b>비밀</b>을 셋 시전합니다.",
@@ -1466,12 +1393,7 @@
       ],
       "mechanics": [
         "SECRET"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "WON_053t5",
@@ -1479,7 +1401,7 @@
       "name": "발드라켄",
       "type": "LOCATION",
       "cardClass": "PALADIN",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 3,
       "text": "무작위 용족을 둘\n얻고 +2/+2를 부여합니다.",
@@ -1516,12 +1438,7 @@
           "name": "카드 유형",
           "value": 39
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "WON_053t6",
@@ -1529,7 +1446,7 @@
       "name": "코룬의 폐허",
       "type": "LOCATION",
       "cardClass": "PALADIN",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 3,
       "text": "카드를 2장 뽑습니다. 두 카드의 비용을 바꿉니다.",
@@ -1566,12 +1483,7 @@
           "name": "카드 유형",
           "value": 39
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "WON_053t7",
@@ -1579,7 +1491,7 @@
       "name": "대지의 사원",
       "type": "LOCATION",
       "cardClass": "PALADIN",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 3,
       "text": "아군 하수인을 선택합니다.\n그 하수인을 생명력 +3과 <b>도발</b>과 공격할 수 없는 상태로 복사하여 소환합니다.",
@@ -1624,12 +1536,7 @@
       ],
       "mechanics": [
         "TAUNT"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "WON_064",
@@ -1712,10 +1619,7 @@
       ],
       "relatedDbfIds": [
         102599
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "WON_064ts",
@@ -1779,11 +1683,7 @@
       ],
       "mechanics": [
         "TRADEABLE"
-      ],
-      "race": "",
-      "races": [],
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "WON_065",
@@ -1806,7 +1706,7 @@
         "DRAGON",
         "PIRATE"
       ],
-      "race": "용족, 해적",
+      "race": "DRAGON",
       "set": "WONDERS",
       "nativeTags": [
         {
@@ -1862,9 +1762,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "WON_066",
@@ -1886,7 +1784,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "용족",
+      "race": "DRAGON",
       "set": "WONDERS",
       "nativeTags": [
         {
@@ -1958,9 +1856,7 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "WON_077",
@@ -2024,11 +1920,7 @@
       ],
       "mechanics": [
         "STEALTH"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "WON_078",
@@ -2082,11 +1974,7 @@
       ],
       "relatedDbfIds": [
         42098
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "WON_079",
@@ -2108,7 +1996,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "WONDERS",
       "nativeTags": [
         {
@@ -2180,9 +2068,7 @@
       "relatedDbfIds": [
         102620,
         102621
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "WON_079t",
@@ -2190,7 +2076,7 @@
       "name": "스카라베 징",
       "type": "MINION",
       "cardClass": "ROGUE",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 4,
       "text": "이 하수인이 피해를 받을 때마다 상대편의 전장을 1/1 딱정벌레로 가득 채웁니다.",
@@ -2235,12 +2121,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "WON_079t2",
@@ -2248,7 +2129,7 @@
       "name": "딱정벌레",
       "type": "MINION",
       "cardClass": "ROGUE",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 1,
       "text": "",
@@ -2261,7 +2142,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "WONDERS",
       "nativeTags": [
         {
@@ -2294,10 +2175,7 @@
           "name": "카드 유형",
           "value": 4
         }
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "WON_090",
@@ -2319,7 +2197,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "정령",
+      "race": "ELEMENTAL",
       "set": "WONDERS",
       "nativeTags": [
         {
@@ -2376,9 +2254,7 @@
       "mechanics": [
         "OVERLOAD",
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "WON_091",
@@ -2439,11 +2315,7 @@
         764,
         62320,
         458
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "WON_092h",
@@ -2554,11 +2426,7 @@
       ],
       "relatedDbfIds": [
         102635
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "WON_092p",
@@ -2566,7 +2434,7 @@
       "name": "때려잡아라, 파리 같은 놈들!",
       "type": "HERO_POWER",
       "cardClass": "SHAMAN",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 2,
       "text": "내 영웅에게 <b>천상의 보호막</b>을 부여합니다. 이번 턴에 내 영웅에게 공격력 +2와 <b>질풍</b>을 부여합니다.",
@@ -2607,12 +2475,7 @@
       "mechanics": [
         "WINDFURY",
         "DIVINE_SHIELD"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "WON_103",
@@ -2663,11 +2526,7 @@
           "name": "수집 가능",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "WON_104",
@@ -2745,11 +2604,7 @@
       ],
       "relatedDbfIds": [
         48
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "WON_115",
@@ -2811,11 +2666,7 @@
         2152,
         2235,
         48752
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "WON_116",
@@ -2896,11 +2747,7 @@
         "TAUNT",
         "BATTLECRY",
         "DISCOVER"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "WON_138",
@@ -2922,7 +2769,7 @@
       "races": [
         "PIRATE"
       ],
-      "race": "해적",
+      "race": "PIRATE",
       "set": "WONDERS",
       "nativeTags": [
         {
@@ -2973,9 +2820,7 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "WON_139",
@@ -2997,7 +2842,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "기계",
+      "race": "MECHANICAL",
       "set": "WONDERS",
       "nativeTags": [
         {
@@ -3048,9 +2893,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "WON_140",
@@ -3072,7 +2915,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "용족",
+      "race": "DRAGON",
       "set": "WONDERS",
       "nativeTags": [
         {
@@ -3123,9 +2966,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "WON_141",
@@ -3189,11 +3030,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "WON_142",
@@ -3257,11 +3094,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "WON_143",
@@ -3283,7 +3116,7 @@
       "races": [
         "ALL"
       ],
-      "race": "모든 종족",
+      "race": "ALL",
       "set": "WONDERS",
       "nativeTags": [
         {
@@ -3351,9 +3184,7 @@
           "name": "명예로운 일격",
           "value": 1
         }
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "WON_144",
@@ -3431,11 +3262,7 @@
       ],
       "relatedDbfIds": [
         38857
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "WON_146",
@@ -3457,7 +3284,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "용족",
+      "race": "DRAGON",
       "set": "WONDERS",
       "nativeTags": [
         {
@@ -3518,9 +3345,7 @@
       ],
       "mechanics": [
         "DORMANT"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "WON_345",
@@ -3595,11 +3420,7 @@
       "mechanics": [
         "TAUNT",
         "DEATHRATTLE"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     }
   ]
 }

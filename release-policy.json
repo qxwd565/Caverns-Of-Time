@@ -1,18 +1,1 @@
-{
-  "schema": 1,
-  "timezone": "Asia/Seoul",
-  "default": {
-    "date": "2023-09-01",
-    "status": "verified"
-  },
-  "prefixes": {
-    "WON_": {
-      "date": "2023-09-01",
-      "status": "verified"
-    }
-  },
-  "cards": {},
-  "sources": {
-    "main": "https://hearthstone.blizzard.com/ko-kr/news/23987537/27-2-patch-notes"
-  }
-}
+{"timezone":"Asia/Seoul","default":{"date":"2023-09-01","status":"verified"},"prefixes":{"WON_":{"date":"2023-09-01","status":"verified"}},"cards":{},"sources":{"main":"https://hearthstone.blizzard.com/ko-kr/news/23987537/27-2-patch-notes"}}

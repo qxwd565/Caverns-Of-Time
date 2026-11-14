@@ -1,0 +1,75 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "WON_139",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-09-01",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-09-01": {
+        "nativeSetId": 1898,
+        "set": "WONDERS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "LC27-058_M.tif:6c97428bb5c44318bd20285eaa5a015d",
+        "flavor": "미래는 지금이다! 지금, 지금이라고!",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 2
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 17
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "[x]<b>전투의 함성:</b> 기계를\n뽑습니다. 그 기계의\n비용이 (2) 감소합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Timeline Accelerator",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/WON_139.png"
+      }
+    }
+  }
+}

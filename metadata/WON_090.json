@@ -1,0 +1,80 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "WON_090",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-09-01",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-09-01": {
+        "nativeSetId": 1898,
+        "set": "WONDERS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "LC27-064_M.tif:e113c9edf5e7429cb5da32862c52f815",
+        "flavor": "내가 과부하되지 않도록 도와주는 좋은 친구죠.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 1
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 8
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 18
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 215,
+            "name": "과부하",
+            "value": 1
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>전투의 함성:</b> <b>과부하</b> 카드를 뽑습니다. 이번 턴에는 <b>과부하</b> 상태가 되지 않습니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Pebbly Page",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/WON_090.png"
+      }
+    }
+  }
+}

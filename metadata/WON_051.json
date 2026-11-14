@@ -1,0 +1,60 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "WON_051",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-09-01",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-09-01": {
+        "nativeSetId": 1898,
+        "set": "WONDERS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "LC27-027_S.tif:dcf9ea1706b14200808003c71529adcc",
+        "flavor": "무르도즈노와 크툰의 하나 된 힘을 노즈도르무가 처치하려면 아제로스의 과거와 현재, 그리고 미래의 영웅들이 필요합니다.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 5
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 5
+          }
+        ],
+        "nativeRawText": "내 손에 있는 무작위 하수인 넷에게 +4/+4, +3/+3, +2/+2, +1/+1을 부여합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Timeless Blessing",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/WON_051.png"
+      }
+    }
+  }
+}

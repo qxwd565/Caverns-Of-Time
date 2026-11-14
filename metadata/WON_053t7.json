@@ -1,0 +1,60 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "WON_053t7",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-09-01",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-09-01": {
+        "nativeSetId": 1898,
+        "set": "WONDERS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "LC27-072_L.tif:068fd3d69aca4b9db3578fd03dba2419",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 190,
+            "name": "도발",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 5
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 39
+          }
+        ],
+        "nativeRawText": "아군 하수인을 선택합니다.\n그 하수인을 생명력 +3과 <b>도발</b>과 공격할 수 없는 상태로 복사하여 소환합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Temple of Earth",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/WON_053t7.png"
+      }
+    }
+  }
+}

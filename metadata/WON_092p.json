@@ -1,0 +1,55 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "WON_092p",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-09-01",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-09-01": {
+        "nativeSetId": 1898,
+        "set": "WONDERS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "LC27-048_HP.tif:3b8352fbf80e47e790abbed56f91bc31",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 189,
+            "name": "질풍",
+            "value": 1
+          },
+          {
+            "id": 194,
+            "name": "천상의 보호막",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 8
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 10
+          }
+        ],
+        "nativeRawText": "내 영웅에게 <b>천상의 보호막</b>을 부여합니다. 이번 턴에 내 영웅에게 공격력 +$a2|1(과,와) <b>질풍</b>을 부여합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "SWAT, INSECTS!",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/WON_092p.png"
+      }
+    }
+  }
+}

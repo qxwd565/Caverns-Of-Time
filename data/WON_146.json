@@ -7,86 +7,14 @@
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
-    "nativeSetId": 1898,
-    "set": "WONDERS",
     "rarity": "LEGENDARY",
     "race": "용족",
     "races": [
       "DRAGON"
     ],
-    "spellSchool": "",
     "cost": 5,
     "attack": 8,
     "health": 8,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "LC27-062_M.tif:a652d42731bc4b4d908cd57d9c6ff8ef",
-    "flavor": "죄송해요! 깜빡 졸았네요.",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 8
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 8
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 24
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 5
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1518,
-        "name": "휴면",
-        "value": 1
-      },
-      {
-        "id": 1652,
-        "name": "게임 태그 1652",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "2턴 동안 <b>휴면</b> 상태입니다. 깨어나면, 내 손에 있는 모든 용족의 비용이 (4) 감소합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Soridormi",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/WON_146.png"
+    "collectible": true
   }
 }

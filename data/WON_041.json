@@ -7,79 +7,10 @@
     "type": "MINION",
     "cardClass": "MAGE",
     "classes": [],
-    "nativeSetId": 1898,
-    "set": "WONDERS",
     "rarity": "LEGENDARY",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 6,
     "attack": 4,
     "health": 4,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "LC27-023_M.tif:3dc90f8fd7e740a2b664806b7a1deb3b",
-    "flavor": "\"노즈도르무... 하스스톤 카드로 타임 머신을 만든 거였어?\"",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 4
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 6
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 4
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 5
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>전투의 함성:</b> 역사적인 사건을 방문합니다. 다른 사건들을 내 덱에 섞어 넣습니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Chromie, Timehopper",
-    "root": true,
-    "relatedIds": [
-      103177,
-      103178,
-      103180,
-      103181
-    ],
-    "art": "art/WON_041.png"
+    "collectible": true
   }
 }

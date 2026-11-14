@@ -7,59 +7,9 @@
     "type": "LOCATION",
     "cardClass": "PALADIN",
     "classes": [],
-    "nativeSetId": 1898,
-    "set": "WONDERS",
     "rarity": "",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 3,
-    "attack": 0,
-    "health": 2,
-    "armor": 0,
     "durability": 2,
-    "collectible": false,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "LC27-029_L.tif:0f72e32e43384ebabb345944244f7484",
-    "flavor": "",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 5
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 39
-      },
-      {
-        "id": 219,
-        "name": "비밀",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "무작위 성기사 <b>비밀</b>을 셋 시전합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "The Nighthold",
-    "root": false,
-    "relatedIds": [],
-    "art": "art/WON_053t4.png"
+    "collectible": false
   }
 }

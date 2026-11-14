@@ -1,0 +1,55 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "WON_028",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-09-01",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-09-01": {
+        "nativeSetId": 1898,
+        "set": "WONDERS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "LC27-016_S.tif:a50662871bbc4049951023943bae86ce",
+        "flavor": "공격대 파티를 33회 전멸시켰습니다.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 6
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "내 덱에 있는 비용이 (3) 이하인 야수\n둘을 복사하여 소환합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Trial of the Jormungars",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/WON_028.png"
+      }
+    }
+  }
+}

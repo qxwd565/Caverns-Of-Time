@@ -1,0 +1,95 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "WON_066",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-09-01",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-09-01": {
+        "nativeSetId": 1898,
+        "set": "WONDERS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "LC27-037_M.tif:4d58fc45ab494130963b4b504e42f511",
+        "flavor": "무르도즈노는 크툰의 몰락을 없던 일로 만들어 고대 신의 힘과 세계를 손에 넣으려고 합니다.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 6
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 6
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 7
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 24
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 415,
+            "name": "발견",
+            "value": 1
+          },
+          {
+            "id": 1342,
+            "name": "발견 시각 효과",
+            "value": 1
+          },
+          {
+            "id": 1932,
+            "name": "다이아몬드 카드 존재",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>전투의 함성:</b> 내 덱에 똑같은 카드가 없으면, 용족을 <b>발견</b>합니다. 그 카드의 비용만큼 다른 <b>모든</b> 하수인에게 피해를 줍니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Murozond, Thief of Time",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/WON_066.png"
+      }
+    }
+  }
+}

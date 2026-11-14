@@ -7,59 +7,9 @@
     "type": "LOCATION",
     "cardClass": "PALADIN",
     "classes": [],
-    "nativeSetId": 1898,
-    "set": "WONDERS",
     "rarity": "",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 3,
-    "attack": 0,
-    "health": 2,
-    "armor": 0,
     "durability": 2,
-    "collectible": false,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "LC27-028_L.tif:c0271922c18f49399b25a117a0feac05",
-    "flavor": "",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 5
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 39
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "이번 턴의 내 다음 <b>전투의 함성</b> 능력이 2번 발동합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Xenedar",
-    "root": false,
-    "relatedIds": [],
-    "art": "art/WON_053t3.png"
+    "collectible": false
   }
 }

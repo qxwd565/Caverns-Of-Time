@@ -7,96 +7,14 @@
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
-    "nativeSetId": 1898,
-    "set": "WONDERS",
     "rarity": "EPIC",
     "race": "모든 종족",
     "races": [
       "ALL"
     ],
-    "spellSchool": "",
     "cost": 4,
     "attack": 2,
     "health": 4,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "LC27-060_M.tif:b9111a741082428ea61b37392471fcd1",
-    "flavor": "무한의 융합체는 가미를 찾았지만 그럼에도 융합체의 여왕을 영원히 찾지 못할까 봐 걱정했습니다.",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 4
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 26
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 403,
-        "name": "격려",
-        "value": 1
-      },
-      {
-        "id": 923,
-        "name": "압살",
-        "value": 1
-      },
-      {
-        "id": 1427,
-        "name": "주문폭주",
-        "value": 1
-      },
-      {
-        "id": 1637,
-        "name": "광폭",
-        "value": 1
-      },
-      {
-        "id": 1920,
-        "name": "명예로운 일격",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>격려, 광폭, 주문폭주, 명예로운 일격, 압살:</b> 비용이 1인 무작위 하수인을 소환합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Infinite Amalgam",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/WON_143.png"
+    "collectible": true
   }
 }

@@ -7,54 +7,9 @@
     "type": "LOCATION",
     "cardClass": "PALADIN",
     "classes": [],
-    "nativeSetId": 1898,
-    "set": "WONDERS",
     "rarity": "",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 3,
-    "attack": 0,
-    "health": 2,
-    "armor": 0,
     "durability": 2,
-    "collectible": false,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "LC27-031_L.tif:76dcea44076b4d0caa54b66124d5cafe",
-    "flavor": "",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 5
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 39
-      }
-    ],
-    "nativeRawText": "카드를 2장 뽑습니다. 두 카드의 비용을 바꿉니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Ruins of Korune",
-    "root": false,
-    "relatedIds": [],
-    "art": "art/WON_053t6.png"
+    "collectible": false
   }
 }

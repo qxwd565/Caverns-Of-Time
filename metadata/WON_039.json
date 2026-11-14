@@ -1,0 +1,70 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "WON_039",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-09-01",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-09-01": {
+        "nativeSetId": 1898,
+        "set": "WONDERS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "LC27-019_M.tif:4fc7cae0ed6e4b44a0550affc81aa522",
+        "flavor": "메디브 견습생이라는데 위화감이라도 느껴지시나요?",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 2
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 192,
+            "name": "주문 공격력",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 4
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "이 하수인은 내 손에 있으면\n내 턴이 시작될 때마다 <b>주문_공격력 +1</b> 능력이 있는 비용이 2인 무작위 하수인으로 변신합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Black Morass Imposter",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/WON_039.png"
+      }
+    }
+  }
+}

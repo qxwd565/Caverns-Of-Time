@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Jade Telegram",
-  "card": {
+  "2023-09-01": {
     "id": "WON_078",
     "dbfId": 102617,
     "name": "비취 전보",
-    "text": "상대편의 손에 있는 카드 3장을\n봅니다. 그중 한 장을 상대편의\n덱에 섞어 넣습니다.\n<b>비취 골렘</b>을 소환합니다.",
+    "text": "상대편의 손에 있는 카드 3장을<br></br>봅니다. 그중 한 장을 상대편의<br></br>덱에 섞어 넣습니다.<br></br><b>비취 골렘</b>을 소환합니다.",
     "type": "SPELL",
     "cardClass": "ROGUE",
     "classes": [],
@@ -60,28 +57,11 @@
     ],
     "nativeRawText": "[x]상대편의 손에 있는 카드 3장을\n봅니다. 그중 한 장을 상대편의\n덱에 섞어 넣습니다.\n{0} <b>비취 골렘</b>을 소환합니다.@[x]상대편의 손에 있는 카드 3장을\n봅니다. 그중 한 장을 상대편의\n덱에 섞어 넣습니다.\n<b>비취 골렘</b>을 소환합니다.",
     "nativeTextBuilder": 1,
-    "releasedAt": "2023-09-01",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    42098
-  ],
-  "expansion": {
-    "id": 1898,
-    "slug": "caverns-of-time",
-    "name": "시간의 동굴",
-    "type": "",
-    "englishName": "Caverns Of Time"
-  },
-  "setOrder": 13,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Jade Telegram",
+    "root": true,
+    "relatedIds": [
+      42098
+    ],
+    "art": "art/WON_078.png"
   }
 }

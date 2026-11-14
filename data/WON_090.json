@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Pebbly Page",
-  "card": {
+  "2023-09-01": {
     "id": "WON_090",
     "dbfId": 102632,
     "name": "견습 조약돌",
@@ -82,26 +79,9 @@
     ],
     "nativeRawText": "<b>전투의 함성:</b> <b>과부하</b> 카드를 뽑습니다. 이번 턴에는 <b>과부하</b> 상태가 되지 않습니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2023-09-01",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1898,
-    "slug": "caverns-of-time",
-    "name": "시간의 동굴",
-    "type": "",
-    "englishName": "Caverns Of Time"
-  },
-  "setOrder": 13,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Pebbly Page",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/WON_090.png"
   }
 }

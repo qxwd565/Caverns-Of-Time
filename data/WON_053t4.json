@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "The Nighthold",
-  "card": {
+  "2023-09-01": {
     "id": "WON_053t4",
     "dbfId": 102584,
     "name": "밤의 요새",
@@ -60,26 +57,9 @@
     ],
     "nativeRawText": "무작위 성기사 <b>비밀</b>을 셋 시전합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2023-09-01",
-    "releaseStatus": "verified"
-  },
-  "root": false,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1898,
-    "slug": "caverns-of-time",
-    "name": "시간의 동굴",
-    "type": "",
-    "englishName": "Caverns Of Time"
-  },
-  "setOrder": 13,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "The Nighthold",
+    "root": false,
+    "relatedIds": [],
+    "art": "art/WON_053t4.png"
   }
 }

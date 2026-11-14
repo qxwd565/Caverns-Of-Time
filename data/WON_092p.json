@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "SWAT, INSECTS!",
-  "card": {
+  "2023-09-01": {
     "id": "WON_092p",
     "dbfId": 102635,
     "name": "때려잡아라, 파리 같은 놈들!",
@@ -55,26 +52,9 @@
     ],
     "nativeRawText": "내 영웅에게 <b>천상의 보호막</b>을 부여합니다. 이번 턴에 내 영웅에게 공격력 +$a2|1(과,와) <b>질풍</b>을 부여합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2023-09-01",
-    "releaseStatus": "verified"
-  },
-  "root": false,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1898,
-    "slug": "caverns-of-time",
-    "name": "시간의 동굴",
-    "type": "",
-    "englishName": "Caverns Of Time"
-  },
-  "setOrder": 13,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "SWAT, INSECTS!",
+    "root": false,
+    "relatedIds": [],
+    "art": "art/WON_092p.png"
   }
 }

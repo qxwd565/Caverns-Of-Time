@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Wind Rider Roost",
-  "card": {
+  "2023-09-01": {
     "id": "WON_053t2",
     "dbfId": 102582,
     "name": "와이번 횃대",
-    "text": "비용이 3인 무작위\n하수인을 소환합니다.\n그 하수인에게 <b>돌진</b>을 부여합니다.",
+    "text": "비용이 3인 무작위<br></br>하수인을 소환합니다.<br></br>그 하수인에게 <b>돌진</b>을 부여합니다.",
     "type": "LOCATION",
     "cardClass": "PALADIN",
     "classes": [],
@@ -60,26 +57,9 @@
     ],
     "nativeRawText": "비용이 3인 무작위\n하수인을 소환합니다.\n그 하수인에게 <b>돌진</b>을 부여합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2023-09-01",
-    "releaseStatus": "verified"
-  },
-  "root": false,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1898,
-    "slug": "caverns-of-time",
-    "name": "시간의 동굴",
-    "type": "",
-    "englishName": "Caverns Of Time"
-  },
-  "setOrder": 13,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Wind Rider Roost",
+    "root": false,
+    "relatedIds": [],
+    "art": "art/WON_053t2.png"
   }
 }
